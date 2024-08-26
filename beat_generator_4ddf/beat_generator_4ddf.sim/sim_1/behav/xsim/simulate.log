@@ -1,0 +1,19 @@
+Vivado Simulator 2019.2
+Time resolution is 1 ps
+At time                    0: T = xxxx, rst = 1
+At time                 5000: T = 1000, rst = 1
+At time                10000: T = 1000, rst = 0
+At time                15000: T = 0100, rst = 0
+At time                25000: T = 0010, rst = 0
+At time                35000: T = 0001, rst = 0
+At time                45000: T = 1000, rst = 0
+At time                55000: T = 0100, rst = 0
+At time                60000: T = 0100, rst = 1
+At time                65000: T = 1000, rst = 1
+At time                70000: T = 1000, rst = 0
+At time                75000: T = 0100, rst = 0
+At time                85000: T = 0010, rst = 0
+At time                95000: T = 0001, rst = 0
+At time               105000: T = 1000, rst = 0
+At time               115000: T = 0100, rst = 0
+$finish called at time : 120 ns : File "C:/Xilinx/rain-projects/beat_generator_4ddf/beat_generator_4ddf.srcs/sim_1/new/beat_generator_4ddf_tb.v" Line 44

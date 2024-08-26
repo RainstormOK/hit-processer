@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Xilinx/rain-projects/beat_generator_4ddf/beat_generator_4ddf.srcs/sources_1/new/beat_generator_4ddf.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module beat_shift
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Xilinx/rain-projects/beat_generator_4ddf/beat_generator_4ddf.srcs/sim_1/new/beat_generator_4ddf_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb_beat_shift
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Xilinx/rain-projects/beat_generator_4ddf/beat_generator_4ddf.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
