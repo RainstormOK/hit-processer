@@ -1,0 +1,6 @@
+Vivado Simulator 2019.2
+Time resolution is 1 ps
+Test Case 1: A = 00000001, B = 00000001, carry_in = 0, sum = 00000002, carry_out = 0
+Test Case 2: A = ffffffff, B = 00000001, carry_in = 0, sum = 00000000, carry_out = 1
+Test Case 3: A = ffffffff, B = ffffffff, carry_in = 1, sum = ffffffff, carry_out = 1
+$stop called at time : 30 ns : File "C:/Xilinx/rain-projects/adder_32_1bit/adder_32_1bit.srcs/sim_1/new/adder_32_1bit_tb.v" Line 42
