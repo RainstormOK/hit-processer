@@ -1,0 +1,19 @@
+Vivado Simulator 2019.2
+Time resolution is 1 ps
+F = A + B: F = 0000000f, Cout = 0, Zero = 0
+F = A + B + Cin: F = 00000001, Cout = 1, Zero = 0
+F = A - B: F = 00000005, Cout = 0, Zero = 0
+F = A - B - Cin: F = 00000004, Cout = 0, Zero = 0
+F = B - A: F = fffffffb, Cout = 1, Zero = 0
+F = B - A - Cin: F = fffffffa, Cout = 1, Zero = 0
+F = A: F = 0000000a, Cout = 1, Zero = 0
+F = B: F = 00000005, Cout = 1, Zero = 0
+F = not A: F = fffffff5, Cout = 1, Zero = 0
+F = not B: F = fffffffa, Cout = 1, Zero = 0
+F = A or B: F = 0000000f, Cout = 1, Zero = 0
+F = A and B: F = 00000000, Cout = 1, Zero = 1
+F = A xnor B: F = 0000000f, Cout = 1, Zero = 0
+F = A xor B: F = fffffff0, Cout = 1, Zero = 0
+F = nand(A, B): F = ffffffff, Cout = 1, Zero = 0
+F = 0: F = 00000000, Cout = 1, Zero = 1
+$stop called at time : 160 ns : File "C:/Xilinx/rain-projects/ALU_32_5_bit/ALU_32_5_bit.srcs/sim_1/new/ALU_32_5_bit_tb.v" Line 152
