@@ -1,0 +1,7 @@
+Vivado Simulator 2019.2
+Time resolution is 1 ps
+rdata1 = deadbeef, expected = DEADBEEF
+rdata2 = cafebabe, expected = CAFEBABE
+rdata1 = cafebabe, expected = CAFEBABE
+rdata2 = facefeed, expected = FACEFEED
+$finish called at time : 70 ns : File "C:/Xilinx/rain-projects/reg/reg.srcs/sim_1/new/reg_tb.v" Line 77

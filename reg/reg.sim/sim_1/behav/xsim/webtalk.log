@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Webtalk v2019.2 (64-bit)
+# SW Build 2708876 on Wed Nov  6 21:40:23 MST 2019
+# IP Build 2700528 on Thu Nov  7 00:09:20 MST 2019
+# Start of session at: Mon Sep  2 07:57:17 2024
+# Process ID: 24744
+# Current directory: C:/Xilinx/rain-projects/reg/reg.sim/sim_1/behav/xsim
+# Command line: wbtcv.exe -mode batch -source C:/Xilinx/rain-projects/reg/reg.sim/sim_1/behav/xsim/xsim.dir/tb_regfile_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: C:/Xilinx/rain-projects/reg/reg.sim/sim_1/behav/xsim/webtalk.log
+# Journal file: C:/Xilinx/rain-projects/reg/reg.sim/sim_1/behav/xsim\webtalk.jou
+#-----------------------------------------------------------
+source C:/Xilinx/rain-projects/reg/reg.sim/sim_1/behav/xsim/xsim.dir/tb_regfile_behav/webtalk/xsim_webtalk.tcl -notrace
+INFO: [Common 17-206] Exiting Webtalk at Mon Sep  2 07:57:18 2024...
