@@ -1,0 +1,173 @@
+#-----------------------------------------------------------
+# Vivado v2019.2 (64-bit)
+# SW Build 2708876 on Wed Nov  6 21:40:23 MST 2019
+# IP Build 2700528 on Thu Nov  7 00:09:20 MST 2019
+# Start of session at: Wed Sep 18 20:04:44 2024
+# Process ID: 23516
+# Current directory: C:/Users/rain/Desktop/lab5/lab5
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent15800 C:\Users\rain\Desktop\lab5\lab5\lab5.xpr
+# Log file: C:/Users/rain/Desktop/lab5/lab5/vivado.log
+# Journal file: C:/Users/rain/Desktop/lab5/lab5\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/rain/Desktop/lab5/lab5/lab5.xpr
+launch_simulation
+open_wave_config C:/Users/rain/Desktop/lab5/lab5/lab5.srcs/sim_1/imports/lab4/tb_behav.wcfg
+source tb.tcl
+update_compile_order -fileset sources_1
+run all
+close_sim
+launch_simulation
+open_wave_config C:/Users/rain/Desktop/lab5/lab5/lab5.srcs/sim_1/imports/lab4/tb_behav.wcfg
+source tb.tcl
+run all
+update_compile_order -fileset sources_1
+update_compile_order -fileset sources_1
+close_sim
+launch_simulation
+open_wave_config C:/Users/rain/Desktop/lab5/lab5/lab5.srcs/sim_1/imports/lab4/tb_behav.wcfg
+source tb.tcl
+run all
+close_sim
+launch_simulation
+open_wave_config C:/Users/rain/Desktop/lab5/lab5/lab5.srcs/sim_1/imports/lab4/tb_behav.wcfg
+source tb.tcl
+run all
+close_sim
+launch_simulation
+open_wave_config C:/Users/rain/Desktop/lab5/lab5/lab5.srcs/sim_1/imports/lab4/tb_behav.wcfg
+source tb.tcl
+run all
+close_sim
+launch_simulation
+open_wave_config C:/Users/rain/Desktop/lab5/lab5/lab5.srcs/sim_1/imports/lab4/tb_behav.wcfg
+source tb.tcl
+close_sim
+launch_simulation
+open_wave_config C:/Users/rain/Desktop/lab5/lab5/lab5.srcs/sim_1/imports/lab4/tb_behav.wcfg
+source tb.tcl
+run all
+close_sim
+launch_simulation
+open_wave_config C:/Users/rain/Desktop/lab5/lab5/lab5.srcs/sim_1/imports/lab4/tb_behav.wcfg
+source tb.tcl
+run all
+close_sim
+launch_simulation
+open_wave_config C:/Users/rain/Desktop/lab5/lab5/lab5.srcs/sim_1/imports/lab4/tb_behav.wcfg
+source tb.tcl
+run all
+close_sim
+launch_simulation
+launch_simulation
+open_wave_config C:/Users/rain/Desktop/lab5/lab5/lab5.srcs/sim_1/imports/lab4/tb_behav.wcfg
+source tb.tcl
+run all
+relaunch_sim
+run all
+close_sim
+launch_simulation
+open_wave_config C:/Users/rain/Desktop/lab5/lab5/lab5.srcs/sim_1/imports/lab4/tb_behav.wcfg
+source tb.tcl
+run all
+close_sim
+launch_simulation
+open_wave_config C:/Users/rain/Desktop/lab5/lab5/lab5.srcs/sim_1/imports/lab4/tb_behav.wcfg
+source tb.tcl
+run all
+close_sim
+launch_simulation
+open_wave_config C:/Users/rain/Desktop/lab5/lab5/lab5.srcs/sim_1/imports/lab4/tb_behav.wcfg
+source tb.tcl
+run all
+close_sim
+launch_simulation
+open_wave_config C:/Users/rain/Desktop/lab5/lab5/lab5.srcs/sim_1/imports/lab4/tb_behav.wcfg
+source tb.tcl
+run all
+close_sim
+launch_simulation
+open_wave_config C:/Users/rain/Desktop/lab5/lab5/lab5.srcs/sim_1/imports/lab4/tb_behav.wcfg
+source tb.tcl
+run all
+close_sim
+launch_simulation
+open_wave_config C:/Users/rain/Desktop/lab5/lab5/lab5.srcs/sim_1/imports/lab4/tb_behav.wcfg
+source tb.tcl
+run all
+close_sim
+launch_simulation
+open_wave_config C:/Users/rain/Desktop/lab5/lab5/lab5.srcs/sim_1/imports/lab4/tb_behav.wcfg
+source tb.tcl
+run all
+close_sim
+launch_simulation
+open_wave_config C:/Users/rain/Desktop/lab5/lab5/lab5.srcs/sim_1/imports/lab4/tb_behav.wcfg
+source tb.tcl
+run all
+close_sim
+launch_simulation
+open_wave_config C:/Users/rain/Desktop/lab5/lab5/lab5.srcs/sim_1/imports/lab4/tb_behav.wcfg
+source tb.tcl
+run all
+close_sim
+launch_simulation
+open_wave_config C:/Users/rain/Desktop/lab5/lab5/lab5.srcs/sim_1/imports/lab4/tb_behav.wcfg
+source tb.tcl
+run all
+close_sim
+launch_simulation
+open_wave_config C:/Users/rain/Desktop/lab5/lab5/lab5.srcs/sim_1/imports/lab4/tb_behav.wcfg
+source tb.tcl
+run all
+close_sim
+launch_simulation
+open_wave_config C:/Users/rain/Desktop/lab5/lab5/lab5.srcs/sim_1/imports/lab4/tb_behav.wcfg
+source tb.tcl
+run all
+close_sim
+launch_simulation
+open_wave_config C:/Users/rain/Desktop/lab5/lab5/lab5.srcs/sim_1/imports/lab4/tb_behav.wcfg
+source tb.tcl
+run all
+close_sim
+launch_simulation
+open_wave_config C:/Users/rain/Desktop/lab5/lab5/lab5.srcs/sim_1/imports/lab4/tb_behav.wcfg
+source tb.tcl
+run all
+close_sim
+launch_simulation
+open_wave_config C:/Users/rain/Desktop/lab5/lab5/lab5.srcs/sim_1/imports/lab4/tb_behav.wcfg
+source tb.tcl
+run all
+close_sim
+launch_simulation
+open_wave_config C:/Users/rain/Desktop/lab5/lab5/lab5.srcs/sim_1/imports/lab4/tb_behav.wcfg
+source tb.tcl
+run all
+close_sim
+launch_simulation
+open_wave_config C:/Users/rain/Desktop/lab5/lab5/lab5.srcs/sim_1/imports/lab4/tb_behav.wcfg
+source tb.tcl
+run all
+close_sim
+launch_simulation
+open_wave_config C:/Users/rain/Desktop/lab5/lab5/lab5.srcs/sim_1/imports/lab4/tb_behav.wcfg
+source tb.tcl
+run all
+close_sim
+launch_simulation
+open_wave_config C:/Users/rain/Desktop/lab5/lab5/lab5.srcs/sim_1/imports/lab4/tb_behav.wcfg
+source tb.tcl
+run all
+close_sim
+launch_simulation
+open_wave_config C:/Users/rain/Desktop/lab5/lab5/lab5.srcs/sim_1/imports/lab4/tb_behav.wcfg
+source tb.tcl
+run all
+close_sim
+launch_simulation
+open_wave_config C:/Users/rain/Desktop/lab5/lab5/lab5.srcs/sim_1/imports/lab4/tb_behav.wcfg
+source tb.tcl
+run all
+close_sim

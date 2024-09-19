@@ -1,0 +1,34 @@
+#-----------------------------------------------------------
+# Vivado v2019.2 (64-bit)
+# SW Build 2708876 on Wed Nov  6 21:40:23 MST 2019
+# IP Build 2700528 on Thu Nov  7 00:09:20 MST 2019
+# Start of session at: Wed Sep 18 18:07:40 2024
+# Process ID: 25556
+# Current directory: C:/Users/rain/Desktop/lab5/lab5
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent26716 C:\Users\rain\Desktop\lab5\lab5\lab5.xpr
+# Log file: C:/Users/rain/Desktop/lab5/lab5/vivado.log
+# Journal file: C:/Users/rain/Desktop/lab5/lab5\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/rain/Desktop/lab5/lab5/lab5.xpr
+update_compile_order -fileset sources_1
+launch_simulation
+open_wave_config C:/Users/rain/Desktop/lab5/lab5/lab5.srcs/sim_1/imports/lab4/tb_behav.wcfg
+source tb.tcl
+run all
+close_sim
+launch_simulation
+open_wave_config C:/Users/rain/Desktop/lab5/lab5/lab5.srcs/sim_1/imports/lab4/tb_behav.wcfg
+source tb.tcl
+run all
+close_sim
+launch_simulation
+open_wave_config C:/Users/rain/Desktop/lab5/lab5/lab5.srcs/sim_1/imports/lab4/tb_behav.wcfg
+source tb.tcl
+run all
+close_sim
+launch_simulation
+open_wave_config C:/Users/rain/Desktop/lab5/lab5/lab5.srcs/sim_1/imports/lab4/tb_behav.wcfg
+source tb.tcl
+run all
+close_sim
